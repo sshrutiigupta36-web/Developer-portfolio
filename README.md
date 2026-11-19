@@ -22,21 +22,23 @@ Welcome to my official Developer Portfolio repository! This space serves as the 
 | [Developer-portfolio](https://github.com/sshrutiigupta36-web/Developer-portfolio) | Central developer portfolio & lab index | Markdown, Git | Active |
 
 ## 📊 Current Skills
-```text
+
 Python              [██████░░░░] 60%
 Linux / Bash        [█████░░░░░] 50%
 Git / GitHub        [██████░░░░] 60%
 SQL (SQLite)        [█████░░░░░] 50%
 
----
-## 📁 Repository Structure & Lab Work
-- `my_resume_v1.pdf` — Professional ATS-compliant technical resume (CSE103 Lab 4 Submission).
-- Additional lab files and documentation tracking my progress in modern software development workflows and terminal operations.
+##📁 Repository Structure & Lab Work
+-my_resume_v1.pdf — Professional ATS-compliant technical resume (CSE103 Lab 4 Submission).
 
-## 🗺️ Learning Roadmap & Progress Tracker
-- **Learning Roadmap:** See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my academic and technical plan.
-- **Progress Tracker:** See [PROGRESS.md](./PROGRESS.md) for coding and lab progress.
+-Additional lab files and documentation tracking my progress in modern software development workflows and terminal operations.
 
-## 💼 Connect With Me
-- **LinkedIn:** [Shruti Gupta](https://www.linkedin.com/in/shruti-gupta-a1b742376)
-- **Email:** 2601201028@krmu.edu.in
+##🗺️ Learning Roadmap & Progress Tracker
+-Learning Roadmap: See LEARNING_ROADMAP.md for my academic and technical plan.
+
+-Progress Tracker: See PROGRESS.md for coding and lab progress.
+
+##💼 Connect With Me
+-LinkedIn: Shruti Gupta
+
+-Email: 2601201028@krmu.edu.in
